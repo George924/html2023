@@ -1,0 +1,17 @@
+#p1{
+    color: red;
+}
+
+p{
+    color: green;
+}
+.pblue{
+    color: blue ;
+}
+  .pfront{
+    front-size: 35px;
+    color: coral;
+  }  
+  .iddiv>.pdiv{
+    color: aquamarine
+  } 
