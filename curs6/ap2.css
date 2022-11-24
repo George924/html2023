@@ -1,0 +1,10 @@
+div{
+    width:100px;
+    margin:auto;
+}
+
+label {
+    display:inline-block;
+    width: 100px;px;
+    text-align:center;
+}
