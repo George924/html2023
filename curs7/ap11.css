@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+#contact input:valid
+#contact textarea:valid{
+        border-color: var(--color3);
+      }
+      .note{
+        text-align: center;
+      }
+      input:required+span::after,
+      textarea:required+span::after{
+        position:relative;
+        content:'(*)';
+      }

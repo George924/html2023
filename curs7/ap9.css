@@ -1,0 +1,7 @@
+Thead{
+    width: 100%;
+    max-width:120px;
+} 
+tfoot:nth-child(2N){
+    background-color: chartreuse;
+}
